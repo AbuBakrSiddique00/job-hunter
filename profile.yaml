@@ -1,0 +1,50 @@
+name: "Your Name"
+email: "your.email@example.com"
+phone: "+1234567890"
+linkedin_url: "https://linkedin.com/in/yourprofile"
+portfolio_url: "https://yourportfolio.com"
+resume_path: "./resume.pdf"
+
+target_titles:
+  - "Software Engineer"
+  - "Backend Engineer"
+  - "Full Stack Developer"
+  - "Python Developer"
+
+skills:
+  - "Python"
+  - "JavaScript"
+  - "TypeScript"
+  - "React"
+  - "Node.js"
+  - "PostgreSQL"
+  - "Docker"
+  - "AWS"
+  - "Git"
+  - "REST APIs"
+  - "GraphQL"
+
+experience_years: 3
+education: "B.Sc. Computer Science"
+
+preferred_locations:
+  - "Remote"
+  - "USA"
+  - "Europe"
+
+remote_only: true
+min_salary: 80000
+max_salary: 200000
+salary_currency: "USD"
+
+bio: |
+  Passionate software engineer with 3+ years of experience
+  building scalable web applications and APIs.
+
+work_history:
+  - company: "Previous Company"
+    title: "Software Engineer"
+    duration: "2 years"
+    highlights:
+      - "Built microservices handling 10K+ RPM"
+      - "Led migration from monolith to microservices"
